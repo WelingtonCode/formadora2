@@ -9,5 +9,5 @@ import { CommonModule } from '@angular/common';
   imports: [IonicModule, CommonModule],
 })
 export class PokemonsPage {
-  pokemons = ['Pikachu', 'Bulbasaur', 'Charmander', 'Squirtle'];
+  pokemons = ['Bulbasaur', 'Ivysaur', 'Venusaur', 'Charmander'];
 }
