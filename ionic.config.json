@@ -1,0 +1,7 @@
+{
+  "name": "pokeform2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
